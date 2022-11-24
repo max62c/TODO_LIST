@@ -1,2 +1,3 @@
-# TODO_LIST
-Une Todo List NO SQL
+# ToDo-Liste
+Petite TodoListe réalisée en Js, avec Bootstrap  
+Utilise le localStorage pour garder les données dans le navigateur de l'utilisateur
